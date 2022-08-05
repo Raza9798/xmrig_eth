@@ -1,4 +1,10 @@
 ```
+git clone https://github.com/Raza9798/xmrig_eth.git
+cd xmrig_eth
+sudo chmod a+x ./build.sh
+```
+
+```
 {
     "autosave": true,
     "cpu": true,
